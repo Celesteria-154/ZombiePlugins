@@ -26,7 +26,6 @@ import java.util.Set;
 /**
  * SetRootCommand(loot)処理コマンド
  *  yamlファイルをロードしその場所をルートチェストに変更
- *  ※現時点ではloot chestの置き方がわからないためエメラルドブロックで代用
  */
 public class SetRootChestCommand extends ZombieSubCommand {
 
